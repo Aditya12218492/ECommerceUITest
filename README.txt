@@ -28,4 +28,4 @@ This project automates an e-commerce website's core user interface workflows usi
 Pull requests are welcome!
 
 ## 👨‍💻 Author
-[Aditya Raj](https://github.com/Aditya12218492)
+Aditya Raj
