@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ECommerce UI Test Suite" parallel="tests" thread-count="2">
+  <test name="Login Test">
+    <classes>
+      <class name="tests.LoginTest"/>
+    </classes>
+  </test>
+</suite>
